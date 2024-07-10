@@ -20,3 +20,8 @@ Navigate through the sections using the navigation bar at the top of each page. 
 
 ## Application Snapshots
 ![Food Website](Food-Website/image/Food1.png)
+![Food Website](Food-Website/image/Food2.png)
+![Food Website](Food-Website/image/Food3.png)
+![Food Website](Food-Website/image/Food4.png)
+![Food Website](Food-Website/image/Food5.png)
+![Food Website](Food-Website/image/Food6.png)
