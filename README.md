@@ -16,7 +16,7 @@ This project is a static website for a food service, designed using **HTML** and
 - **Clone** the **repository** and open **index.html** in a web browser to view the website.
 
 ## Usage
-Navigate through the sections using the navigation bar at the top of each page. Click on the links to visit different sections (Home, About, Menu, Gallery, Reviews, Order).
+Navigate through the sections using the **navigation bar** at the top of each page. Click on the links to visit different sections (Home, About, Menu, Gallery, Reviews, Order).
 
 ## Application Snapshots
 ![Food Website](Food-Website/image/Food1.png)
