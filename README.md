@@ -1,7 +1,7 @@
 # Food-Website
 This project is a static website for a food service, designed using **HTML** and **CSS**. It consists of several sections aimed at providing information and functionality related to food offerings.
 
-# Technologies Used
+## Technologies Used
 - HTML
 - CSS
 
