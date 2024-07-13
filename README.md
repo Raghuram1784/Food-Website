@@ -28,3 +28,4 @@ Navigate through the sections using the **navigation bar** at the top of each pa
 ![Food Website](Food-Website/image/Food4.png)
 ![Food Website](Food-Website/image/Food5.png)
 ![Food Website](Food-Website/image/Food6.png)
+![Food Website](Food-Website/image/Food7.png)
